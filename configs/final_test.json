@@ -1,0 +1,14 @@
+{
+  "mesh_file": "../AS4RCSD/Data/Toolpath_Models/Model_C_R.STL",
+  "non_planar_surface_file": "../AS4RCSD/Data/Toolpath_Models/Model_C_S.STL",
+  "output_dir": "results/final_test",
+  "layer_height": 1.0,
+  "strategy": 6,
+  "tool_width": 2.0,
+  "hatch_distance": 1.5,
+  "fly_in_out": false,
+  "enable_evaluation": false,
+  "enable_visualization": true,
+  "save_evaluation_plots": false,
+  "export_csv": true
+}

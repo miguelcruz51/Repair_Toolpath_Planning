@@ -1,0 +1,48 @@
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+pytest.ini
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Generated output directories
+results/**
+!results/.gitkeep
+batch_results/
+test_output/
+outputs/
+*.log
+
+# Credentials and API keys
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+*_api_key*
+*apikey*
+*.credentials
+
+# Docs
+REORGANIZATION_REPORT.md
